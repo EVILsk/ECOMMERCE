@@ -1541,7 +1541,7 @@ form.search button:hover{
 
 
 
-@media(max-width: 393px) {
+@media(max-width: 480px) {
 
     .text-content {
         font-size: 40%;
