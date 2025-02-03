@@ -1295,7 +1295,7 @@ form.search button:hover{
 
 
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 900px) {
     .container {
         padding: 0 2em;
     }
@@ -1566,7 +1566,7 @@ form.search button:hover{
 }
 
 .slider .swiper-slide {
-    animation: slider 10s ease-in-out infinite alternate;
+    animation: slider 14s ease-in-out infinite alternate;
 }
 
 
